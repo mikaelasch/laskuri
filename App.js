@@ -51,15 +51,15 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
     button: {
-      backgroundColor: '##87C1FF',  
+      backgroundColor: 'blue',  
       alignItems: 'center',
-      color: 'white',
+      color: 'black',
       padding: '3%'
       
 
   },
   buttonContainer: {
-    //backgroundColor:'red',
+    
     flexDirection: "row",
     justifyContent:'space-around',
     padding:'3%',
