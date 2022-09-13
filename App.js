@@ -68,10 +68,11 @@ const styles = StyleSheet.create({
   },
     button: {
       flex:1.5,
-      backgroundColor: 'blue',  
+      backgroundColor: 'pink',  
       alignItems: 'center',
       color: 'black',
-      padding: '3%'
+      padding: '3%', 
+      height: '40%'
       
 
   },
